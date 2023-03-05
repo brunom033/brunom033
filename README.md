@@ -1,15 +1,24 @@
-### Hi there 👋
+# Bruno Monge
 
+## **Ingeniero en Informática**, graduado en 2022.
 
-**brunom033/brunom033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente vivo en **Argentina** pero pronto partiré a Italia para buscar mejores oportunidades.
+Trabajé en una empresa agropecuaria, realizando soportes de equipamiento y soporte en los sistemas de la misma.
+En cuanto a tecnologías de desarrollo, trabajé con **SQL** en la BD del sistema principal y además con **Qlik Sense** para la realización de tableros de comando para la toma de decisiones.
 
-Here are some ideas to get you started:
+Estoy realizando el Bootcamp Javascript Full-Stack de Guillermo Rodas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tabla de comandos de la terminal
+
+| Comando | Descripción |
+| ------- | ------- |
+| ls | Lista las carpetas o archivos dentro del directorio actual. |
+| cd | Para volver a la carpeta Home. |
+| mv | Sirve para mover un archivo a otro directorio o para renombrar un archivo/carpeta. |
+| cp | Permite copiar archivos/carpetas. Agregando -r se vuelve recursivo. |
+| mkdir | Permite crear una carpeta en el directorio actual. |
+
+## Alias útiles
+
+* cl = clear
+* mkdircd = 'function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd' -> Permite crear un directorio y acceder directamente.
