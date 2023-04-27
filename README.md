@@ -2,9 +2,9 @@
 
 ## **Ingeniero en Informática**, graduado en 2022.
 
-Actualmente vivo en **Argentina** pero pronto partiré a Italia para buscar mejores oportunidades.
+Nacido en **Argentina** pero viviendo en Italia en busca de mejores oportunidades.
 Trabajé en una empresa agropecuaria, realizando soporte de equipamiento y de sistemas.
-En cuanto a tecnologías de desarrollo, trabajé con **SQL** en la BD del sistema principal y además con **Qlik Sense** para la realización de tableros de comando para la toma de decisiones.
+En cuanto a tecnologías de desarrollo, trabajé con **SQL** en la base de datos del sistema principal y además con **Qlik Sense** para la realización de tableros de comando para la toma de decisiones.
 
 Estoy realizando el Bootcamp Javascript Full-Stack de Guillermo Rodas.
 
